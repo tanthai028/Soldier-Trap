@@ -7,7 +7,7 @@ For your convenience, here is how you could do it in CMD environment.
 1. First compile: gcc character.c
 2. After compilation, to run the program, you would type the following command: a.exe
 
-# Sample input and output from console
+# Example
 Input:  
 5 2  
 Output:  
