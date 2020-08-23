@@ -8,9 +8,9 @@ For your convenience, here is how you could do it in CMD environment.
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Sample input and output from console
-Input:
-5 2
-Output:
-List: 5 4 3 2 1
-After ordering: 1 2 3 4 5
-Survived: 3
+Input:  
+5 2  
+Output:  
+List: 5 4 3 2 1  
+After ordering: 1 2 3 4 5  
+Survived: 3  
